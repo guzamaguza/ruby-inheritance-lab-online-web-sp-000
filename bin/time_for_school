@@ -28,4 +28,4 @@ james = Student.new
 other_knowledge = avi.teach
 james.learn(other_knowledge)
 
-puts other_knowledge 
+puts other_knowledge
