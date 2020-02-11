@@ -28,4 +28,4 @@ james = Student.new
 other_knowledge = avi.teach
 james.learn(other_knowledge)
 
-puts "james just learned #{james.knowledge.first} from Avi"
+puts other_knowledge 
